@@ -1,0 +1,501 @@
+company,rank,revenues,revenue_change,profits,assets,profit_change,ceo,industry,sector,previous_rank,country
+Walmart,1,485873,0.8,13643.0,198825,-7.2,C. Douglas McMillon,General Merchandisers,Retailing,1,USA
+State Grid,2,315199,-4.4,9571.3,489838,-6.2,Kou Wei,Utilities,Energy,2,China
+Sinopec Group,3,267518,-9.1,1257.9,310726,-65.0,Wang Yupu,Petroleum Refining,Energy,4,China
+China National Petroleum,4,262573,-12.3,1867.5,585619,-73.7,Zhang Jianhua,Petroleum Refining,Energy,3,China
+Toyota Motor,5,254694,7.7,16899.3,437575,-12.3,Akio Toyoda,Motor Vehicles and Parts,Motor Vehicles & Parts,8,Japan
+Volkswagen,6,240264,1.5,5937.3,432116,,Matthias Muller,Motor Vehicles and Parts,Motor Vehicles & Parts,7,Germany
+Royal Dutch Shell,7,240033,-11.8,4575.0,411275,135.9,Ben van Beurden,Petroleum Refining,Energy,5,Netherlands
+Berkshire Hathaway,8,223604,6.1,24074.0,620854,,Warren E. Buffett,Insurance: Property and Casualty (Stock),Financials,11,USA
+Apple,9,215639,-7.7,45687.0,321686,-14.4,Timothy D. Cook,"Computers, Office Equipment",Technology,9,USA
+Exxon Mobil,10,205004,-16.7,7840.0,330314,-51.5,Darren W. Woods,Petroleum Refining,Energy,6,USA
+McKesson,11,198533,3.1,5070.0,60969,124.5,John H. Hammergren,Wholesalers: Health Care,Wholesalers,12,USA
+BP,12,186606,-17.4,115.0,263316,,Robert W. Dudley,Petroleum Refining,Energy,10,Britain
+UnitedHealth Group,13,184840,17.7,7017.0,122810,20.7,Stephen J. Hemsley,Health Care: Insurance and Managed Care,Health Care,17,USA
+CVS Health,14,177526,15.8,5317.0,94462,1.5,Larry J. Merlo,Health Care: Pharmacy and Other Services,Health Care,18,USA
+Samsung Electronics,15,173957,-2.0,19316.5,217104,16.8,Oh-Hyun Kwon,"Electronics, Electrical Equip.",Technology,13,South Korea
+Glencore,16,173883,2.0,1379.0,124600,,Ivan Glasenberg,"Mining, Crude-Oil Production",Energy,14,Switzerland
+Daimler,17,169483,2.2,9428.4,256262,0.9,Dieter Zetsche,Motor Vehicles and Parts,Motor Vehicles & Parts,16,Germany
+General Motors,18,166380,9.2,9427.0,221690,-2.7,Mary T. Barra,Motor Vehicles and Parts,Motor Vehicles & Parts,20,USA
+AT&T,19,163786,11.6,12976.0,403821,-2.8,Randall L. Stephenson,Telecommunications,Telecommunications,23,USA
+EXOR Group,20,154894,1.5,651.3,186172,-21.1,John Elkann,Diversified Financials,Financials,19,Netherlands
+Ford Motor,21,151800,1.5,4596.0,237951,-37.7,James P. Hackett,Motor Vehicles and Parts,Motor Vehicles & Parts,21,USA
+Industrial & Commercial Bank of China,22,147675,-11.7,41883.9,3473238,-5.0,Gu Shu,Banks: Commercial and Savings,Financials,15,China
+AmerisourceBergen,23,146850,8.0,1427.9,33656,,Steven H. Collis,Wholesalers: Health Care,Wholesalers,28,USA
+China State Construction Engineering,24,144505,3.1,2492.9,201269,10.7,Guan Qing,"Engineering, Construction",Engineering & Construction,27,China
+AXA,25,143722,11.2,6446.0,941556,3.5,Thomas Buberl,"Insurance: Life, Health (stock)",Financials,33,France
+Amazon.com,26,135987,27.1,2371.0,83402,297.8,Jeffrey P. Bezos,Internet Services and Retailing,Technology,44,USA
+Hon Hai Precision Industry,27,135129,-4.3,4608.8,80436,-0.4,Terry Gou,"Electronics, Electrical Equip.",Technology,25,Taiwan
+China Construction Bank,28,135093,-8.7,34840.9,3016578,-4.0,Wang Hongzhang,Banks: Commercial and Savings,Financials,22,China
+Honda Motor,29,129198,6.2,5690.3,170165,98.3,Takahiro Hachigo,Motor Vehicles and Parts,Motor Vehicles & Parts,36,Japan
+Total,30,127925,-10.8,6196.0,230978,21.8,Patrick Pouyanne,Petroleum Refining,Energy,24,France
+General Electric,31,126661,-9.8,8831.0,365183,,Jeffrey R. Immelt,Industrial Machinery,Industrials,26,USA
+Verizon,32,125980,-4.3,13127.0,244180,-26.6,Lowell C. McAdam,Telecommunications,Telecommunications,30,USA
+Japan Post Holdings,33,122990,3.6,-267.4,2631385,-107.5,Masatsugu Nagato,"Insurance: Life, Health (stock)",Financials,37,Japan
+Allianz,34,122196,-0.6,7611.5,932091,3.7,Oliver Bate,Insurance: Property and Casualty (Stock),Financials,34,Germany
+Cardinal Health,35,121546,18.5,1427.0,34122,17.4,George S. Barrett,Wholesalers: Health Care,Wholesalers,50,USA
+Costco,36,118719,2.2,2350.0,33163,-1.1,W. Craig Jelinek,General Merchandisers,Retailing,38,USA
+Walgreens Boots Alliance,37,117351,13.4,4173.0,72688,-1.1,Stefano Pessina,Food and Drug Stores,Food & Drug Stores,47,USA
+Agricultural Bank of China,38,117275,-12.1,27687.8,2816039,-3.6,Zhao Huan,Banks: Commercial and Savings,Financials,29,China
+Ping An Insurance,39,116581,5.7,9392.0,802490,8.9,Ma Mingzhe,"Insurance: Life, Health (stock)",Financials,41,China
+Kroger,40,115337,5.0,1975.0,36505,-3.1,W. Rodney McMullen,Food and Drug Stores,Food & Drug Stores,42,USA
+SAIC Motor,41,113861,6.7,4818.2,84989,1.6,Chen Zhixin,Motor Vehicles and Parts,Motor Vehicles & Parts,46,China
+Bank of China,42,113708,-7.1,24773.4,2611539,-8.9,Chen Siqing,Banks: Commercial and Savings,Financials,35,China
+BNP Paribas,43,109026,-2.2,8517.2,2190423,14.7,Jean-Laurent Bonnafe,Banks: Commercial and Savings,Financials,39,France
+Nissan Motor,44,108164,6.5,6123.4,165344,40.3,Hiroto Saikawa,Motor Vehicles and Parts,Motor Vehicles & Parts,53,Japan
+Chevron,45,107567,-18.0,-497.0,260078,-110.8,John S. Watson,Petroleum Refining,Energy,31,USA
+Fannie Mae,46,107162,-2.9,12313.0,3287968,12.4,Timothy J. Mayopoulos,Diversified Financials,Financials,40,USA
+China Mobile Communications,47,107117,0.3,9614.3,246446,-5.2,Li Yue,Telecommunications,Telecommunications,45,China
+J.P. Morgan Chase,48,105486,4.4,24733.0,2490972,1.2,James Dimon,Banks: Commercial and Savings,Financials,55,USA
+Legal & General Group,49,105235,442.3,1697.9,577954,3.4,Nigel Wilson,"Insurance: Life, Health (stock)",Financials,0,Britain
+Nippon Telegraph & Telephone,50,105128,9.4,7384.4,190740,20.2,Hiroo Unoura,Telecommunications,Telecommunications,60,Japan
+China Life Insurance,51,104818,3.5,162.4,483026,-96.1,Yang Mingsheng,"Insurance: Life, Health (stock)",Financials,54,China
+BMW Group,52,104130,1.8,7589.4,198835,7.4,Harald Kruger,Motor Vehicles and Parts,Motor Vehicles & Parts,51,Germany
+Express Scripts Holding,53,100288,-1.4,3404.4,51745,37.5,Timothy C. Wentworth,Health Care: Pharmacy and Other Services,Health Care,52,USA
+Trafigura Group,54,98098,0.9,750.8,41230,-39.3,Jeremy Weir,Trading,Wholesalers,59,Singapore
+China Railway Engineering,55,96979,-2.5,924.1,108864,-6.0,Zhang Zongyan,"Engineering, Construction",Engineering & Construction,57,China
+Prudential,56,96965,53.7,2592.8,581221,-34.2,Michael A. Wells,"Insurance: Life, Health (stock)",Financials,126,Britain
+Assicurazioni Generali,57,95217,-7.2,2301.3,549656,2.2,Philippe R. Donnet,"Insurance: Life, Health (stock)",Financials,49,Italy
+China Railway Construction,58,94877,-0.8,1192.4,109968,7.8,Meng Fengchao,"Engineering, Construction",Engineering & Construction,62,China
+Home Depot,59,94595,6.9,7957.0,42966,13.5,Craig A. Menear,Specialty Retailers,Retailing,69,USA
+Boeing,60,94571,-1.6,4895.0,89997,-5.4,Dennis A. Muilenburg,Aerospace and Defense,Aerospace & Defense,61,USA
+Wells Fargo,61,94176,4.6,21938.0,1930115,-4.2,Timothy J. Sloan,Banks: Commercial and Savings,Financials,67,USA
+Bank of America Corp.,62,93662,0.7,17906.0,2187702,12.7,Brian T. Moynihan,Banks: Commercial and Savings,Financials,64,USA
+Gazprom,63,91382,-8.1,14222.6,277262,10.4,Alexey B. Miller,Energy,Energy,56,Russia
+Nestle,64,90814,-1.6,8659.2,129824,-8.1,Ulf Mark Schneider,Food Consumer Products,"Food, Beverages & Tobacco",66,Switzerland
+Alphabet,65,90272,20.4,19478.0,167497,19.1,Larry Page,Internet Services and Retailing,Technology,94,USA
+Siemens,66,88419,0.9,6050.5,141271,-27.4,Josef Kaeser,Industrial Machinery,Industrials,71,Germany
+Carrefour,67,87112,-0.4,825.0,51513,-24.1,Georges Plassat,Food and Drug Stores,Food & Drug Stores,73,France
+Dongfeng Motor,68,86194,4.1,1415.0,59532,-4.4,Li Shaozhu,Motor Vehicles and Parts,Motor Vehicles & Parts,81,China
+Microsoft,69,85320,-8.8,16798.0,193694,37.8,Satya Nadella,Computer Software,Technology,63,USA
+Anthem,70,84863,7.2,2469.8,65083,-3.5,Joseph R. Swedish,Health Care: Insurance and Managed Care,Health Care,85,USA
+Hitachi,71,84558,1.2,2134.3,86742,48.8,Toshiaki Higashihara,"Electronics, Electrical Equip.",Technology,79,Japan
+SoftBank Group,72,82892,8.4,13163.4,221113,233.3,Masayoshi Son,Telecommunications,Telecommunications,92,Japan
+Banco Santander,73,82801,-2.5,6860.7,1412281,3.7,Jose Antonio Alvarez,Banks: Commercial and Savings,Financials,75,Spain
+Citigroup,74,82386,-6.7,14912.0,1792077,-13.5,Michael L. Corbat,Banks: Commercial and Savings,Financials,70,USA
+Petrobras,75,81405,-16.3,-4838.0,246983,,Pedro Pullen Parente,Petroleum Refining,Energy,58,Brazil
+Robert Bosch,76,80869,3.3,2155.3,86348,-39.1,Volkmar Denner,Motor Vehicles and Parts,Motor Vehicles & Parts,87,Germany
+Deutsche Telekom,77,80832,5.3,2958.1,156597,-18.0,Timotheus Hottges,Telecommunications,Telecommunications,90,Germany
+Hyundai Motor,78,80701,-0.8,4659.0,148092,-17.9,Mong-Koo Chung,Motor Vehicles and Parts,Motor Vehicles & Parts,84,South Korea
+Comcast,79,80403,7.9,8695.0,180500,6.5,Brian L. Roberts,Telecommunications,Telecommunications,96,USA
+Credit Agricole,80,80258,-4.6,3914.7,1607501,0.4,Philippe Brassac,Banks: Commercial and Savings,Financials,77,France
+IBM,81,79919,-3.1,11872.0,117470,-10.0,Virginia M. Rometty,Information Technology Services,Technology,82,USA
+Electricite de France,82,78740,-5.4,3152.8,297026,139.4,Jean-Bernard Levy,Utilities,Energy,80,France
+Huawei Investment & Holding,83,78511,24.9,5579.4,63837,-5.0,Ren Zhengfei,Network and Other Communications Equipment,Technology,129,China
+Enel,84,78064,-7.0,2842.0,164096,16.7,Francesco Starace,Utilities,Energy,78,Italy
+State Farm Insurance Cos.,85,76132,0.6,350.3,256030,-94.4,Michael L. Tipsord,Insurance: Property and Casualty (Mutual),Financials,93,USA
+China Resources National,86,75776,-1.0,2580.2,158291,3.7,Luo Xi,Pharmaceuticals,Health Care,91,China
+AEON,87,75772,11.8,103.9,78223,108.6,Motoya Okada,General Merchandisers,Retailing,111,Japan
+HSBC Holdings,88,75329,-15.4,2479.0,2374986,-81.7,Stuart T. Gulliver,Banks: Commercial and Savings,Financials,68,Britain
+Pacific Construction Group,89,74629,2.2,3168.1,48196,-1.2,Yan Hao,"Engineering, Construction",Engineering & Construction,99,China
+Aviva,90,74628,105.9,948.8,544063,-32.3,Mark Wilson,"Insurance: Life, Health (stock)",Financials,279,Britain
+Uniper,91,74407,,-3557.5,51541,,Klaus Schafer,Energy,Energy,0,Germany
+Tesco,92,74393,-15.1,-52.7,57052,-125.3,David J. Lewis,Food and Drug Stores,Food & Drug Stores,72,Britain
+Engie,93,73692,-4.9,-458.9,167158,,Isabelle Kocher,Energy,Energy,89,France
+Airbus Group,94,73628,3.0,1100.3,117204,-63.2,Thomas Enders,Aerospace and Defense,Aerospace & Defense,100,Netherlands
+SK Holdings,95,72579,107.4,659.7,85332,-86.0,Tae Won Chey,Petroleum Refining,Energy,294,South Korea
+Phillips 66,96,72396,-16.9,1555.0,51653,-63.2,Greg C. Garland,Petroleum Refining,Energy,74,USA
+Johnson & Johnson,97,71890,2.6,16540.0,141208,7.3,Alex Gorsky,Pharmaceuticals,Health Care,103,USA
+Procter & Gamble,98,71726,-8.9,10508.0,127136,49.3,David S. Taylor,Household and Personal Products,Household Products,86,USA
+U.S. Postal Service,99,71498,3.7,-5591.0,25219,,Megan J. Brennan,"Mail, Package, and Freight Delivery",Transportation,107,USA
+China Southern Power Grid,100,71242,-4.6,2329.8,99187,4.8,Li Qingkui,Utilities,Energy,95,China
+China South Industries Group,101,71151,1.5,580.3,51857,-61.0,Xu Liuping,Aerospace and Defense,Aerospace & Defense,102,China
+Lukoil,102,70897,-16.3,3090.6,82179,-35.1,Vagit Y. Alekperov,Petroleum Refining,Energy,76,Russia
+China Communications Construction,103,70751,4.4,1431.3,146763,-16.2,Liu Qitao,"Engineering, Construction",Engineering & Construction,110,China
+Groupe BPCE,104,70517,25.5,4410.1,1302721,22.6,Francois Perol,Banks: Commercial and Savings,Financials,155,France
+Sony,105,70170,3.9,676.4,158519,-45.1,Kazuo Hirai,"Electronics, Electrical Equip.",Technology,113,Japan
+Valero Energy,106,70166,-14.2,2289.0,46173,-42.6,Joseph W. Gorder,Petroleum Refining,Energy,83,USA
+Target,107,69495,-5.8,2737.0,37431,-18.6,Brian C. Cornell,General Merchandisers,Retailing,97,USA
+Societe Generale,108,69335,-1.1,4284.0,1457753,-3.5,Frederic Oudea,Banks: Commercial and Savings,Financials,43,France
+Munich Re Group,109,68700,-1.1,2853.1,282435,-17.2,Joachim Wenning,Insurance: Property and Casualty (Stock),Financials,106,Germany
+Panasonic,110,67775,6.7,1378.4,53702,0.2,Kazuhiro Tsuga,"Electronics, Electrical Equip.",Technology,128,Japan
+Nippon Life Insurance,111,67388,0.4,2786.9,650429,-17.1,Yoshinobu Tsutsui,"Insurance: Life, Health (Mutual)",Financials,114,Japan
+Zurich Insurance Group,112,67245,11.0,3211.0,382679,74.3,Mario Greco,Insurance: Property and Casualty (Stock),Financials,141,Switzerland
+Itau Unibanco Holding,113,66876,21.4,6666.4,415972,-13.7,Candido Botelho Bracher,Banks: Commercial and Savings,Financials,159,Brazil
+People’s Insurance Co. of China,114,66732,3.3,2144.3,134132,-31.0,Wu Yan,Insurance: Property and Casualty (Stock),Financials,119,China
+China National Offshore Oil,115,65892,-2.8,1752.4,166595,-62.0,Yang Hua,"Mining, Crude-Oil Production",Energy,109,China
+Marubeni,116,65792,8.2,1433.7,61904,176.4,Fumiya Kokubu,Trading,Wholesalers,138,Japan
+Deutsche Post DHL Group,117,65787,-3.8,2918.3,40387,70.8,Frank Appel,"Mail, Package, and Freight Delivery",Transportation,108,Germany
+Freddie Mac,118,65665,3.4,7815.0,2023376,22.6,Donald H. Layton,Diversified Financials,Financials,124,USA
+China Post Group,119,65605,-5.8,4980.3,1221649,18.7,Li Guohua,"Mail, Package, and Freight Delivery",Transportation,105,China
+China Minmetals,120,65547,105.6,-446.7,109334,,He Wenbo,Metals,Materials,323,China
+Lloyds Banking Group,121,65208,38.2,2784.4,1010245,111.9,Antonio Horta-Osorio,Banks: Commercial and Savings,Financials,193,Britain
+Lowe’s,122,65017,10.1,3093.0,34408,21.5,Robert A. Niblock,Specialty Retailers,Retailing,148,USA
+Metro,123,64853,-9.0,665.0,28039,-13.6,Olaf Koch,Food and Drug Stores,Food & Drug Stores,101,Germany
+Dell Technologies,124,64806,18.1,-1672.0,118206,,Michael S. Dell,"Computers, Office Equipment",Technology,0,USA
+China FAW Group,125,64784,3.1,2411.3,54772,-25.9,Xu Ping,Motor Vehicles and Parts,Motor Vehicles & Parts,130,China
+BASF,126,63641,-18.6,4485.3,80675,1.4,Kurt W. Bock,Chemicals,Chemicals,88,Germany
+JXTG Holdings,127,63629,1.8,1477.3,59767,,Yukio Uchida,Petroleum Refining,Energy,131,Japan
+MetLife,128,63476,-9.3,800.0,898764,-84.9,Steven A. Kandarian,"Insurance: Life, Health (stock)",Financials,104,USA
+Tewoo Group,129,63324,-1.4,141.7,34713,-11.6,Wang Yuzhu,Trading,Wholesalers,122,China
+Aetna,130,63155,4.7,2271.0,69146,-5.0,Mark T. Bertolini,Health Care: Insurance and Managed Care,Health Care,142,USA
+PepsiCo,131,62799,-0.4,6329.0,74129,16.1,Indra K. Nooyi,Food Consumer Products,"Food, Beverages & Tobacco",127,USA
+ENI,132,62694,-32.6,-1619.0,131349,,Claudio Descalzi,Petroleum Refining,Energy,65,Italy
+China Telecommunications,133,62387,1.0,1764.6,115819,2.9,Yang Jie,Telecommunications,Telecommunications,132,China
+Archer Daniels Midland,134,62346,-7.9,1279.0,39769,-30.8,Juan R. Luciano,Food Production,"Food, Beverages & Tobacco",112,USA
+China North Industries Group,135,61326,-0.5,853.0,53140,6.2,Yin Jiaxu,Aerospace and Defense,Aerospace & Defense,134,China
+COFCO,136,61265,-5.0,204.5,72072,-23.0,Yu Xubo,Trading,Wholesalers,121,China
+Beijing Automotive Group,137,61130,11.3,1260.6,57783,14.9,Xu Heyi,Motor Vehicles and Parts,Motor Vehicles & Parts,160,China
+UPS,138,60906,4.4,3431.0,40377,-29.2,David P. Abney,"Mail, Package, and Freight Delivery",Transportation,149,USA
+Anbang Insurance Group,139,60800,124.0,3883.9,430040,0.9,Wu Xiaohui,"Insurance: Life, Health (Mutual)",Financials,0,China
+Peugeot,140,59749,-1.5,1913.1,47620,91.8,Carlos Tavares,Motor Vehicles and Parts,Motor Vehicles & Parts,140,France
+Albertsons Cos.,141,59678,1.6,-373.3,23755,,Robert G. Miller,Food and Drug Stores,Food & Drug Stores,0,USA
+Dai-ichi Life Holdings,142,59590,-2.5,2134.5,466617,43.5,Seiji Inagaki,"Insurance: Life, Health (stock)",Financials,135,Japan
+Sinochem Group,143,59533,-1.9,468.0,57484,,Ning Gaoning,Trading,Wholesalers,139,China
+Intel,144,59387,7.3,10316.0,113327,-9.7,Brian M. Krzanich,Semiconductors and Other Electronic Components,Technology,158,USA
+Mitsubishi,145,59303,2.8,4063.5,141402,,Takehiko Kakiuchi,Trading,Wholesalers,151,Japan
+Auchan Holding,146,58862,-2.2,652.4,38537,13.5,Wilhelm Hubner,Food and Drug Stores,Food & Drug Stores,144,France
+Aegon,147,58789,50.5,483.3,448666,-38.7,Alexander R. Wynaendts,"Insurance: Life, Health (stock)",Financials,253,Netherlands
+Prudential Financial,148,58779,2.9,4368.0,783962,-22.6,John R. Strangfeld,"Insurance: Life, Health (stock)",Financials,152,USA
+Vodafone Group,149,58611,-5.0,-6904.0,165420,,Vittorio Colao,Telecommunications,Telecommunications,133,Britain
+Unilever,150,58292,-1.4,5732.7,59512,5.3,Paul Polman,Household and Personal Products,Household Products,147,Britain
+Banco do Brasil,151,58093,-13.4,2013.8,426416,-52.3,Paulo Rogerio Caffarelli,Banks: Commercial and Savings,Financials,115,Brazil
+Pemex,152,57774,-21.4,-10256.3,113115,,Jose Antonio Gonzalez Anaya,"Mining, Crude-Oil Production",Energy,98,Mexico
+Telefonica,153,57544,-5.5,2619.7,130396,283.4,Jose Maria Alvarez-Pallete Lopez,Telecommunications,Telecommunications,137,Spain
+Banco Bradesco,154,57443,31.3,5127.9,366418,-5.7,Luiz Carlos Trabuco Cappi,Banks: Commercial and Savings,Financials,209,Brazil
+United Technologies,155,57244,-6.2,5055.0,89706,-33.6,Gregory J. Hayes,Aerospace and Defense,Aerospace & Defense,136,USA
+ArcelorMittal,156,56791,-10.7,1779.0,75142,,Lakshmi N. Mittal,Metals,Materials,123,Luxembourg
+Renault,157,56667,12.7,3780.9,107681,20.7,Carlos Ghosn,Motor Vehicles and Parts,Motor Vehicles & Parts,178,France
+Rosneft Oil,158,56553,-12.7,2705.1,180756,-53.4,Igor I. Sechin,Petroleum Refining,Energy,118,Russia
+Shandong Weiqiao Pioneering Group,159,56174,5.9,1217.2,31641,8.6,Zhang Shiping,Textiles,Industrials,163,China
+Marathon Petroleum,160,55858,-13.5,1174.0,44413,-58.8,Gary R. Heminger,Petroleum Refining,Energy,120,USA
+Disney,161,55632,6.0,9391.0,92033,12.0,Robert A. Iger,Entertainment,Media,164,USA
+Aviation Industry Corp. of China,162,55306,-8.2,464.2,124892,-47.4,Tan Ruisong,Aerospace and Defense,Aerospace & Defense,143,China
+ING Group,163,55282,-16.5,5501.6,888226,0.7,Ralph Hamers,Banks: Commercial and Savings,Financials,117,Netherlands
+Mitsubishi UFJ Financial Group,164,55185,15.9,8550.1,2722354,7.9,Nobuyuki Hirano,Banks: Commercial and Savings,Financials,191,Japan
+Royal Ahold Delhaize,165,54955,29.7,917.9,38257,-2.9,Dick Boer,Food and Drug Stores,Food & Drug Stores,222,Netherlands
+Humana,166,54379,0.2,614.0,25396,-51.9,Bruce D. Broussard,Health Care: Insurance and Managed Care,Health Care,162,USA
+Seven & I Holdings,167,53858,7.5,892.9,49244,-33.0,Ryuichi Isaka,Food and Drug Stores,Food & Drug Stores,179,Japan
+Indian Oil,168,53562,-2.1,2960.0,42132,72.7,Sanjiv Singh,Petroleum Refining,Energy,161,India
+Roche Group,169,53427,2.0,9719.9,75609,5.5,Severin Schwan,Pharmaceuticals,Health Care,167,Switzerland
+HNA Group,170,53035,79.4,278.9,173095,18.7,Tan Xiangdong,Airlines,Transportation,353,China
+Bank of Communications,171,52990,-7.1,10116.9,1209176,-4.4,Niu Ximing,Banks: Commercial and Savings,Financials,153,China
+CITIC Group,172,52852,-5.5,3236.3,938261,-14.0,Chang Zhenming,Diversified Financials,Financials,156,China
+Pfizer,173,52824,8.1,7215.0,171615,3.7,Ian C. Read,Pharmaceuticals,Health Care,186,USA
+Bayer,174,52569,0.3,5010.6,86731,9.9,Werner Baumann,Pharmaceuticals,Health Care,165,Germany
+AIG,175,52367,-10.2,-849.0,498264,-138.7,Brian Duperreault,Insurance: Property and Casualty (Stock),Financials,150,USA
+America Movil,176,52201,-7.4,462.9,73555,-79.0,Daniel Hajj Aboumrad,Telecommunications,Telecommunications,154,Mexico
+Korea Electric Power,177,51500,-0.6,6074.1,147265,-48.3,Hwan-Eik Cho,Utilities,Energy,172,South Korea
+Lockheed Martin,178,50658,9.8,5302.0,47806,47.1,Marillyn A. Hewson,Aerospace and Defense,Aerospace & Defense,197,USA
+Sysco,179,50367,3.5,949.6,16722,38.3,William J. DeLaney III,Wholesalers: Food and Grocery,Wholesalers,188,USA
+FedEx,180,50365,6.1,1820.0,46064,73.3,Frederick W. Smith,"Mail, Package, and Freight Delivery",Transportation,192,USA
+Hewlett Packard Enterprise,181,50123,,3161.0,79679,,Margaret C. Whitman,Information Technology Services,Technology,0,USA
+Louis Dreyfus Company,182,49838,-10.6,305.0,19843,44.5,Gonzalo Ramirez Martiarena,Food Production,"Food, Beverages & Tobacco",157,Netherlands
+Amer International Group,183,49677,3.9,1199.9,18405,5.2,Wang Wenyin,"Electronics, Electrical Equip.",Technology,190,China
+Petronas,184,49479,-22.0,4092.9,134528,21.4,Wan Zulkiflee Wan Ariffin,Petroleum Refining,Energy,125,Malaysia
+Tokyo Electric Power,185,49446,-2.2,1225.7,110202,4.5,Naomi Hirose,Utilities,Energy,177,Japan
+Novartis,186,49436,-3.1,6712.0,130124,-62.3,Joseph Jimenez,Pharmaceuticals,Health Care,175,Switzerland
+Cisco Systems,187,49247,0.2,10739.0,121652,19.6,Charles H. Robbins,Network and Other Communications Equipment,Technology,183,USA
+MS&AD Insurance Group Holdings,188,49239,17.9,1942.2,190596,28.5,Yasuyoshi Karasawa,Insurance: Property and Casualty (Stock),Financials,231,Japan
+Deutsche Bank,189,48876,-6.8,-1550.4,1677437,,John Cryan,Banks: Commercial and Savings,Financials,166,Germany
+PowerChina,190,48869,7.2,1057.6,86687,-9.6,Yan Zhiyong,"Engineering, Construction",Engineering & Construction,200,China
+JBS,191,48825,-0.1,107.7,31605,-92.3,Wesley Mendonca Batista,Food Production,"Food, Beverages & Tobacco",185,Brazil
+PTT,192,48719,-17.7,2681.6,62349,360.6,Tevin Vongvanich,Petroleum Refining,Energy,146,Thailand
+Tokio Marine Holdings,193,48292,26.6,2527.4,202923,19.2,Tsuyoshi Nagano,Insurance: Property and Casualty (Stock),Financials,261,Japan
+HP,194,48238,-53.3,2496.0,29010,-45.2,Dion J. Weisler,"Computers, Office Equipment",Technology,48,USA
+RWE,195,48204,-6.6,-6249.1,80576,,Rolf Martin Schmitz,Utilities,Energy,174,Germany
+Dow Chemical,196,48158,-1.3,4318.0,79511,-43.8,Andrew N. Liveris,Chemicals,Chemicals,187,USA
+Finatis,197,48154,-7.3,687.8,46270,,Didier Leveque,Food and Drug Stores,Food & Drug Stores,170,France
+Wesfarmers,198,48003,-7.6,296.1,30358,-85.4,Richard J.B. Goyder,Food and Drug Stores,Food & Drug Stores,171,Australia
+Sinopharm,199,47810,7.9,504.0,36767,13.7,She Lulin,Pharmaceuticals,Health Care,205,China
+CNP Assurances,200,47804,-3.0,1327.3,442027,5.8,Frederic Lavenir,"Insurance: Life, Health (stock)",Financials,182,France
+LG Electronics,201,47712,-4.6,66.2,31348,-39.8,Seong-Jin Jo,"Electronics, Electrical Equip.",Technology,180,South Korea
+Sumitomo Mitsui Financial Group,202,47375,19.2,6520.5,1775349,21.0,Takeshi Kunibe,Banks: Commercial and Savings,Financials,243,Japan
+Reliance Industries,203,46931,8.0,4458.9,108856,5.6,Mukesh D. Ambani,Petroleum Refining,Energy,215,India
+China Baowu Steel Group,204,46606,-11.5,442.8,106725,,Ma Guoqiang,Metals,Materials,275,China
+Noble Group,205,46528,-30.3,8.7,12285,,William J. Randall,Trading,Wholesalers,116,China
+Anheuser-Busch InBev,206,45905,5.3,1241.0,258381,-85.0,Carlos Brito,Beverages,"Food, Beverages & Tobacco",211,Belgium
+Statoil,207,45873,-23.4,-2902.0,104530,,Eldar Saetre,Petroleum Refining,Energy,145,Norway
+POSCO,208,45621,-11.8,1167.5,66361,669.8,Oh-Joon Kwon,Metals,Materials,173,South Korea
+Kia Motors,209,45425,3.7,2373.8,42141,2.0,Hyoung-Keun Lee,Motor Vehicles and Parts,Motor Vehicles & Parts,208,South Korea
+Orange,210,45249,1.3,3245.7,99840,10.3,Stephane Richard,Telecommunications,Telecommunications,204,France
+ChemChina,211,45177,9.1,17.9,54341,,Ren Jianxin,Chemicals,Chemicals,234,China
+Deutsche Bahn,212,44850,0.1,768.6,59716,,Richard Lutz,Railroads,Transportation,203,Germany
+Continental,213,44842,3.0,3099.1,38151,2.4,Elmar Degenhart,Motor Vehicles and Parts,Motor Vehicles & Parts,213,Germany
+HCA Holdings,214,44747,2.7,2890.0,33758,35.7,R. Milton Johnson,Health Care: Medical Facilities,Health Care,212,USA
+Itochu,215,44654,5.5,3250.6,72902,62.3,Masahiro Okafuji,Trading,Wholesalers,223,Japan
+China Merchants Bank,216,44552,-8.1,9344.8,855070,1.8,Tian Huiyu,Banks: Commercial and Savings,Financials,189,China
+State Bank of India,217,44533,6.8,36.0,530590,-98.1,Arundhati Bhattacharya,Banks: Commercial and Savings,Financials,232,India
+Woolworths,218,43925,-13.2,-898.3,17495,-150.3,Brad Banducci,Food and Drug Stores,Food & Drug Stores,176,Australia
+KDDI,219,43822,17.8,5045.1,56223,22.5,Takashi Tanaka,Telecommunications,Telecommunications,271,Japan
+Swiss Re,220,43786,22.6,3558.0,215065,-22.6,Christian Mumenthaler,Insurance: Property and Casualty (Stock),Financials,282,Switzerland
+HBIS Group,221,43769,-3.3,-146.8,51858,,Yu Yong,Metals,Materials,201,China
+CEFC China Energy,222,43743,4.5,740.9,22578,22.8,Chan Chauto,Energy,Energy,229,China
+Banco Bilbao Vizcaya Argentaria,223,43698,1.7,3842.8,771837,31.1,Carlos Torres Vila,Banks: Commercial and Savings,Financials,219,Spain
+ThyssenKrupp,224,43589,-11.0,328.6,39411,-7.1,Heinrich Hiesinger,Metals,Materials,184,Germany
+Saint-Gobain,225,43231,-6.4,1449.8,46158,0.9,Pierre-Andre de Chalendar,"Building Materials, Glass",Materials,196,France
+Lenovo Group,226,43035,-4.2,535.1,27186,,Yang Yuanqing,"Computers, Office Equipment",Technology,202,China
+Vinci,227,42771,-1.9,2770.1,71642,22.1,Xavier Huillard,"Engineering, Construction",Engineering & Construction,210,France
+Nippon Steel & Sumitomo Metal,228,42757,4.6,1208.5,65182,-0.2,Kosei Shindo,Metals,Materials,238,Japan
+Bunge,229,42679,-1.8,745.0,19188,-5.8,Soren W. Schroder,Food Production,"Food, Beverages & Tobacco",214,USA
+Industrial Bank,230,42622,-8.2,8105.9,875731,1.5,Tao Yiping,Banks: Commercial and Savings,Financials,195,China
+E.ON,231,42213,-67.3,-9344.4,67179,,Johannes Teyssen,Energy,Energy,32,Germany
+Sberbank,232,42159,-7.6,8078.0,415730,121.0,Herman O. Gref,Banks: Commercial and Savings,Financials,199,Russia
+China Shipbuilding Industry,233,42149,17.0,485.8,69621,-62.9,Hu Wenming,Industrial Machinery,Industrials,281,China
+Christian Dior,234,42113,0.5,1740.3,69870,-38.7,Sidney Toledano,Apparel,Apparel,228,France
+Coca-Cola,235,41863,-5.5,6527.0,87270,-11.2,James B. Quincey,Beverages,"Food, Beverages & Tobacco",206,USA
+Denso,236,41781,10.9,2377.6,46233,16.9,Koji Arima,Motor Vehicles and Parts,Motor Vehicles & Parts,268,Japan
+Fujitsu,237,41620,5.4,816.7,28646,13.0,Tatsuya Tanaka,Information Technology Services,Technology,248,Japan
+Guangzhou Automobile Industry Group,238,41560,20.7,551.9,30267,10.8,Zeng Qinghong,Motor Vehicles and Parts,Motor Vehicles & Parts,303,China
+Wilmar International,239,41402,6.8,972.2,37032,-7.9,Kuok Khoon Hong,Food Production,"Food, Beverages & Tobacco",254,Singapore
+Sanofi,240,41376,-0.2,5207.4,110390,9.5,Olivier Brandicourt,Pharmaceuticals,Health Care,233,France
+China United Network Communications,241,41274,-6.4,23.2,88626,-95.8,Wang Xiaochu,Telecommunications,Telecommunications,207,China
+Sumitomo Life Insurance,242,40921,31.6,517.5,308346,-6.1,Masahiro Hashimoto,"Insurance: Life, Health (Mutual)",Financials,335,Japan
+New York Life Insurance,243,40787,-11.1,1088.1,287196,324.1,Theodore A. Mathas,"Insurance: Life, Health (Mutual)",Financials,198,USA
+Centene,244,40721,78.6,562.0,20197,58.3,Michael F. Neidorff,Health Care: Insurance and Managed Care,Health Care,470,USA
+Shanghai Pudong Development Bank,245,40689,-3.2,7992.8,842832,-0.7,Gao Guofu,Banks: Commercial and Savings,Financials,227,China
+Hanwha,246,40606,11.0,423.7,128247,,Tae-Jong Lee,"Insurance: Life, Health (stock)",Financials,277,South Korea
+Tata Motors,247,40329,-4.2,1111.6,42162,-34.0,Guenter Butschek,Motor Vehicles and Parts,Motor Vehicles & Parts,226,India
+Aluminum Corp. of China,248,40278,6.0,-282.5,75089,,Yu Dehui,Metals,Materials,262,China
+Mitsui,249,40275,1.6,2825.3,103231,,Tatsuo Yasunaga,Trading,Wholesalers,245,Japan
+Manulife Financial,250,40238,49.4,2209.7,537461,28.9,Donald A. Guloien,"Insurance: Life, Health (stock)",Financials,394,Canada
+China Minsheng Banking,251,40234,-5.2,7201.6,848389,-1.8,Zheng Wanchun,Banks: Commercial and Savings,Financials,221,China
+China Pacific Insurance (Group),252,40193,2.2,1814.9,146873,-35.7,Huo Lianhong,"Insurance: Life, Health (stock)",Financials,251,China
+American Airlines Group,253,40180,-2.0,2676.0,51274,-64.8,W. Douglas Parker,Airlines,Transportation,236,USA
+Nationwide,254,40074,-0.4,334.3,197790,-42.4,Stephen S. Rasmussen,Insurance: Property and Casualty (Mutual),Financials,241,USA
+Merck,255,39807,0.8,3920.0,95377,-11.8,Kenneth C. Frazier,Pharmaceuticals,Health Care,246,USA
+Cigna,256,39668,4.7,1867.0,59360,-10.8,David M. Cordani,Health Care: Insurance and Managed Care,Health Care,264,USA
+Delta Air Lines,257,39639,-2.6,4373.0,51261,-3.4,Edward H. Bastian,Airlines,Transportation,239,USA
+Best Buy,258,39403,-0.9,1228.0,13856,36.9,Hubert B. Joly,Specialty Retailers,Retailing,244,USA
+China National Building Material Group,259,39323,24.0,74.5,81224,,Song Zhiping,"Building Materials, Glass",Materials,327,China
+Honeywell International,260,39302,1.9,4809.0,54146,0.9,Darius Adamczyk,"Electronics, Electrical Equip.",Technology,256,USA
+JD.com,261,39155,35.7,-573.0,23077,,Richard Qiangdong Liu,Internet Services and Retailing,Technology,366,China
+Mitsubishi Electric,262,39119,6.9,1942.6,37519,2.1,Masaki Sakuyama,"Electronics, Electrical Equip.",Technology,276,Japan
+ZF Friedrichshafen,263,38888,20.2,949.9,30719,-12.1,Stefan Sommer,Motor Vehicles and Parts,Motor Vehicles & Parts,320,Germany
+Caterpillar,264,38537,-18.0,-67.0,74704,-103.2,D. James Umpleby III,Construction and Farm Machinery,Industrials,194,USA
+Liberty Mutual Insurance Group,265,38308,-2.9,1006.0,125592,95.7,David H. Long,Insurance: Property and Casualty (Stock),Financials,249,USA
+Power Corp. of Canada,266,38286,27.9,855.5,315387,-40.5,Paul Desmarais Jr.,"Insurance: Life, Health (stock)",Financials,351,Canada
+Morgan Stanley,267,37949,0.1,5979.0,814949,-2.4,James P. Gorman,Banks: Commercial and Savings,Financials,263,USA
+Hengli Group,268,37880,12.2,821.7,14838,43.7,Chen Jianhua,Textiles,Industrials,0,China
+SSE,269,37813,-12.7,2082.9,29899,200.3,Alistair Phillips-Davies,Utilities,Energy,216,Britain
+Massachusetts Mutual Life Insurance,270,37788,-1.2,1273.5,271040,-10.6,Roger W. Crandall,"Insurance: Life, Health (Mutual)",Financials,258,USA
+Goldman Sachs Group,271,37712,-3.8,7398.0,860165,21.6,Lloyd C. Blankfein,Banks: Commercial and Savings,Financials,252,USA
+Johnson Controls International,272,37674,-6.3,-868.0,63253,-155.5,Alex A. Molinaroli,Industrial Machinery,Industrials,0,Ireland
+GlaxoSmithKline,273,37642,3.0,1230.9,72985,-90.4,Emma N. Walmsley,Pharmaceuticals,Health Care,278,Britain
+China Huaneng Group,274,37543,-13.1,-85.9,144306,-111.1,Cao Peixi,Energy,Energy,217,China
+Energy Transfer Equity,275,37504,-11.0,995.0,79011,-16.3,John W. McReynolds,Pipelines,Energy,225,USA
+Shenhua Group,276,37322,-0.8,1916.9,140911,37.9,Ling Wen,"Mining, Crude-Oil Production",Energy,270,China
+Greenland Holding Group,277,37240,12.8,1085.2,105495,-1.0,Zhang Yuliang,Real estate,Financials,311,China
+TIAA,278,37105,5.5,1492.3,523194,22.9,Roger W. Ferguson Jr.,"Insurance: Life, Health (Mutual)",Financials,291,USA
+Jardine Matheson,279,37051,0.1,2503.0,71523,39.3,Ben Keswick,Motor Vehicles and Parts,Motor Vehicles & Parts,273,China
+Oracle,280,37047,-3.1,8901.0,112180,-10.4,Safra A. Catz,Computer Software,Technology,260,USA
+ACS,281,36992,-4.5,830.5,35196,3.2,Florentino Perez Rodriguez,"Engineering, Construction",Engineering & Construction,255,Spain
+Sumitomo,282,36888,10.4,1577.1,69669,154.0,Kuniharu Nakamura,Trading,Wholesalers,308,Japan
+Tyson Foods,283,36881,-10.9,1768.0,22373,44.9,Thomas P. Hayes,Food Production,"Food, Beverages & Tobacco",235,USA
+Barclays,284,36789,-25.7,2807.4,1498612,,James E. Staley,Banks: Commercial and Savings,Financials,181,Britain
+Poste Italiane,285,36617,7.4,687.8,203760,12.3,Matteo Del Fante,"Insurance: Life, Health (stock)",Financials,305,Italy
+Centrica,286,36580,-14.4,2256.7,27046,,Iain C. Conn,Utilities,Energy,220,Britain
+United Continental Holdings,287,36556,-3.5,2263.0,40140,-69.2,Oscar Munoz,Airlines,Transportation,265,USA
+Allstate,288,36534,2.5,1877.0,108610,-13.5,Thomas J. Wilson,Insurance: Property and Casualty (Stock),Financials,283,USA
+Pertamina,289,36487,-12.6,3147.0,47233,121.6,Elia Massa Manik,Petroleum Refining,Energy,230,Indonesia
+Magna International,290,36445,7.6,2031.0,22566,0.9,Donald J. Walker,Motor Vehicles and Parts,Motor Vehicles & Parts,306,Canada
+UBS Group,291,36230,-5.9,3252.2,920291,-49.6,Sergio P. Ermotti,Banks: Commercial and Savings,Financials,257,Switzerland
+Intesa Sanpaolo,292,36225,-14.2,3440.3,764712,13.2,Carlo Messina,Banks: Commercial and Savings,Financials,224,Italy
+George Weston,293,36211,-1.3,414.9,28299,0.6,Galen G. Weston,Food and Drug Stores,Food & Drug Stores,274,Canada
+Mitsubishi Heavy Industries,294,36122,7.2,809.6,49205,52.3,Shunichi Miyanaga,Industrial Machinery,Industrials,307,Japan
+Rajesh Exports,295,36114,43.1,185.8,3717,13.8,Rajesh J. Mehta,Trading,Wholesalers,423,India
+Pegatron,296,35891,-6.1,599.6,13776,-20.1,Syh-Jang Liao,"Computers, Office Equipment",Technology,259,Taiwan
+Meiji Yasuda Life Insurance,297,35767,0.4,2064.8,362739,15.8,Akio Negishi,"Insurance: Life, Health (Mutual)",Financials,284,Japan
+Maersk Group,298,35464,-12.0,-1939.0,61118,-345.1,Soren Skou,Shipping,Transportation,240,Denmark
+SABIC,299,35421,-10.3,4757.1,84489,-4.9,Yousef Abdullah Al-Benyan,Chemicals,Chemicals,247,Saudi Arabia
+Bouygues,300,35277,-2.2,809.5,36758,81.1,Martin Bouygues,"Engineering, Construction",Engineering & Construction,280,France
+Volvo,301,35269,-4.8,1535.8,43924,-14.0,Martin Lundstedt,Motor Vehicles and Parts,Motor Vehicles & Parts,272,Sweden
+Talanx,302,35101,-0.8,1003.0,165124,23.2,Herbert K. Haas,Insurance: Property and Casualty (Stock),Financials,289,Germany
+Lufthansa Group,303,35011,-1.5,1964.0,36593,4.3,Carsten Spohr,Airlines,Transportation,285,Germany
+Royal Bank of Canada,304,34904,0.3,7839.6,880724,-1.8,David I. McKay,Banks: Commercial and Savings,Financials,297,Canada
+Accenture,305,34798,5.7,4111.9,20609,34.7,Pierre Nanterme,Information Technology Services,Technology,312,Ireland
+Repsol,306,34485,-12.5,1919.7,68392,,Josu Jon Imaz San Miguel,Petroleum Refining,Energy,250,Spain
+China Vanke,307,34458,17.5,3164.5,119555,9.8,Yu Liang,Real estate,Financials,356,China
+Publix Super Markets,308,34274,5.1,2025.7,17464,3.1,Randall T. Jones Sr.,Food and Drug Stores,Food & Drug Stores,317,USA
+Edeka Zentrale,309,34193,6.8,356.0,6921,28.3,Markus Mosa,Wholesalers: Food and Grocery,Wholesalers,321,Germany
+J. Sainsbury,310,34149,-3.5,490.9,24674,-30.8,Michael Coupe,Food and Drug Stores,Food & Drug Stores,288,Britain
+Alimentation Couche-Tard,311,34145,-1.1,1193.5,12304,27.9,Brian P. Hannasch,Food and Drug Stores,Food & Drug Stores,301,Canada
+China Energy Engineering Group,312,33930,2.1,421.0,44181,-22.0,Wang Jianping,"Engineering, Construction",Engineering & Construction,309,China
+Hyundai Heavy Industries,313,33881,-17.1,469.8,40783,,Hwan-Goo Kang,Industrial Machinery,Industrials,237,South Korea
+ABB,314,33828,-4.7,1899.0,39499,-1.8,Ulrich Spiesshofer,Industrial Machinery,Industrials,286,Switzerland
+American Express,315,33823,-1.8,5408.0,158893,4.7,Kenneth I. Chenault,Diversified Financials,Financials,302,USA
+Rio Tinto Group,316,33781,-3.0,4617.0,89263,,Jean-Sebastien Jacques,"Mining, Crude-Oil Production",Energy,296,Britain
+SNCF Mobilites,317,33747,3.8,565.1,39993,,Guillaume Pepy,Railroads,Transportation,319,France
+CRRC,318,33739,-10.8,1700.3,48681,-9.6,Liu Hualong,Industrial Machinery,Industrials,266,China
+CK Hutchison Holdings,319,33475,47.4,4252.4,130721,-72.2,"Li Tzar Kuoi, Victor",Specialty Retailers,Retailing,473,China
+Jizhong Energy Group,320,33366,-11.8,-153.9,30819,,Yang GuoZhan,"Mining, Crude-Oil Production",Energy,267,China
+TJX,321,33184,7.2,2298.2,12884,0.9,Ernie L. Herrman,Specialty Retailers,Retailing,338,USA
+Xinxing Cathay International Group,322,33174,1.9,448.2,18705,-1.6,Liu Mingzhong,Metals,Materials,318,China
+Hyundai Mobis,323,32972,-0.7,2617.8,34541,-3.1,Young-Deuk Lim,Motor Vehicles and Parts,Motor Vehicles & Parts,310,South Korea
+Aisin Seiki,324,32879,21.6,1168.9,29964,39.9,Yasumori Ihara,Motor Vehicles and Parts,Motor Vehicles & Parts,393,Japan
+Rite Aid,325,32845,6.9,4.1,11594,-97.6,John T. Standley,Food and Drug Stores,Food & Drug Stores,340,USA
+Shaanxi Yanchang Petroleum (Group),326,32652,2.8,-22.6,45552,,He Jiuchang,"Mining, Crude-Oil Production",Energy,325,China
+DZ Bank,327,32636,4.6,1623.4,537278,3.4,Wolfgang Kirsch,Banks: Commercial and Savings,Financials,334,Germany
+UniCredit Group,328,32539,-5.9,-13038.0,906489,-793.7,Jean Pierre Mustier,Banks: Commercial and Savings,Financials,300,Italy
+China Everbright Group,329,32461,-1.3,1877.8,627701,-11.2,Tang Shuangning,Banks: Commercial and Savings,Financials,313,China
+Daiwa House Industry,330,32421,21.9,1861.5,31917,115.8,Takeo Higuchi,"Engineering, Construction",Engineering & Construction,402,Japan
+Nike,331,32376,5.8,3760.0,21396,14.9,Mark G. Parker,Apparel,Apparel,343,USA
+Iberdrola,332,32308,-7.3,2991.3,112536,11.4,Jose Ignacio Sanchez Galan,Utilities,Energy,295,Spain
+Commonwealth Bank of Australia,333,32287,-14.3,6712.9,694565,-10.9,Ian M. Narev,Banks: Commercial and Savings,Financials,269,Australia
+Sinomach,334,32237,-8.2,502.0,39142,-34.5,Ren Hongbin,Industrial Machinery,Industrials,293,China
+Fresenius,335,32161,4.9,1761.6,48984,16.9,Stephan Sturm,Health Care: Medical Facilities,Health Care,341,Germany
+China Aerospace Science & Technology,336,32094,5.0,1996.2,55721,7.7,Lei Fanpei,Aerospace and Defense,Aerospace & Defense,344,China
+Shaanxi Coal & Chemical Industry,337,31926,5.3,-254.4,64151,,Yang Zhaoqian,"Mining, Crude-Oil Production",Energy,347,China
+China Evergrande Group,338,31828,50.2,2368.8,194384,-4.3,Hui Kayan,Real estate,Financials,496,China
+Jiangxi Copper,339,31680,0.4,20.4,16108,,Li Baomin,"Mining, Crude-Oil Production",Energy,328,China
+Sompo Holdings,340,31559,16.4,1535.7,107092,15.5,Kengo Sakurada,Insurance: Property and Casualty (Stock),Financials,388,Japan
+China Poly Group,341,31508,18.1,744.1,95657,-11.4,Zhang Zhengao,Real estate,Financials,401,China
+Chubb,342,31469,65.7,4135.0,159786,45.9,Evan G. Greenberg,Insurance: Property and Casualty (Stock),Financials,0,Switzerland
+Zhejiang Geely Holding Group,343,31430,19.5,1265.7,29749,341.6,Li Shufu,Motor Vehicles and Parts,Motor Vehicles & Parts,410,China
+Exelon,344,31360,6.5,1134.0,114904,-50.0,Christopher M. Crane,Utilities,Energy,355,USA
+General Dynamics,345,31353,-0.4,2955.0,32872,-0.3,Phebe N. Novakovic,Aerospace and Defense,Aerospace & Defense,330,USA
+BT Group,346,31333,9.3,2484.6,52972,-36.2,Gavin E. Patterson,Telecommunications,Telecommunications,369,Britain
+Canon,347,31271,-0.4,1385.0,44062,-23.9,Fujio Mitarai,"Computers, Office Equipment",Technology,332,Japan
+Wuchan Zhongda Group,348,31185,7.3,324.3,11018,47.2,Wang Tingge,Trading,Wholesalers,359,China
+Mitsubishi Chemical Holdings,349,31158,5.6,1442.1,40064,237.1,Hitoshi Ochi,Chemicals,Chemicals,324,Japan
+BHP Billiton,350,30912,-40.9,-6385.0,118953,-434.3,Andrew Mackenzie,"Mining, Crude-Oil Production",Energy,168,Australia
+Toronto-Dominion Bank,351,30855,2.3,6646.1,878268,4.5,Bharat B. Masrani,Banks: Commercial and Savings,Financials,350,Canada
+Subaru,352,30696,14.0,2605.8,24794,-28.4,Yasuyuki Yoshinaga,Motor Vehicles and Parts,Motor Vehicles & Parts,395,Japan
+Bridgestone,353,30678,-2.0,2441.3,31901,3.9,Masaaki Tsuya,Motor Vehicles and Parts,Motor Vehicles & Parts,333,Japan
+Credit Suisse Group,354,30588,-13.0,-2750.7,806950,,Tidjane Thiam,Banks: Commercial and Savings,Financials,292,Switzerland
+China Aerospace Science & Industry,355,30582,9.7,1443.7,36999,-1.8,Gao Hongwei,Aerospace and Defense,Aerospace & Defense,381,China
+JFE Holdings,356,30539,6.8,627.0,38920,123.6,Eiji Hayashida,Metals,Materials,371,Japan
+Mizuho Financial Group,357,30390,13.5,5570.1,1799736,-0.3,Yasuhiro Sato,Banks: Commercial and Savings,Financials,399,Japan
+Gilead Sciences,358,30390,-6.9,13501.0,56977,-25.4,John F. Milligan,Pharmaceuticals,Health Care,316,USA
+CHS,359,30347,-12.2,424.2,17318,-45.7,Jay D. Debertin,Food Production,"Food, Beverages & Tobacco",299,USA
+Bharat Petroleum,360,30316,4.2,1300.5,16801,6.7,D. Rajkumar,Petroleum Refining,Energy,358,India
+3M,361,30109,-0.5,5050.0,32906,4.5,Inge G. Thulin,Miscellaneous,Industrials,348,USA
+China Electronics,362,30010,-4.8,321.9,36575,82.6,Rui Xiaowu,"Electronics, Electrical Equip.",Technology,329,China
+CRH,363,29973,14.3,1374.6,33320,71.2,Albert Manifold,"Building Materials, Glass",Materials,411,Ireland
+China State Shipbuilding,364,29877,-1.0,367.6,40773,-16.1,Wu Qiang,Industrial Machinery,Industrials,349,China
+Jiangsu Shagang Group,365,29862,-8.8,352.1,23720,148.5,Shen Wenrong,Metals,Materials,314,China
+China COSCO Shipping,366,29743,29.5,1489.0,94792,30.1,Xu Lirong,Shipping,Transportation,465,China
+Mazda Motor,367,29665,4.5,865.5,22660,-22.7,Masamichi Kogai,Motor Vehicles and Parts,Motor Vehicles & Parts,373,Japan
+State Power Investment,368,29493,-3.7,436.6,126068,50.9,Wang Binghua,Energy,Energy,342,China
+Taiwan Semiconductor Manufacturing,369,29388,10.6,10283.7,58535,7.8,Mark Liu,Semiconductors and Other Electronic Components,Technology,403,Taiwan
+Vale,370,29363,14.7,3982.0,99014,,Fabio Schvartsman,"Mining, Crude-Oil Production",Energy,417,Brazil
+Time Warner,371,29318,4.3,3926.0,65966,2.4,Jeffrey L. Bewkes,Entertainment,Media,376,USA
+Shandong Energy Group,372,29299,16.6,39.2,39887,,Li Weimin,"Mining, Crude-Oil Production",Energy,426,China
+Suzuki Motor,373,29252,10.4,1476.2,27969,51.9,Toshihiro Suzuki,Motor Vehicles and Parts,Motor Vehicles & Parts,405,Japan
+LyondellBasell Industries,374,29183,-10.9,3836.0,23442,-14.3,Bhavesh V. Patel,Chemicals,Chemicals,315,Netherlands
+Royal Philips,375,29003,1.1,1601.3,34068,123.8,Frans A. van Houten,Medical Products and Equipment,Health Care,368,Netherlands
+Charter Communications,376,29003,197.3,3522.0,149067,,Thomas M. Rutledge,Telecommunications,Telecommunications,0,USA
+Medtronic,377,28833,42.3,3538.0,99782,32.3,Omar S. Ishrak,Medical Products and Equipment,Health Care,0,Ireland
+Northwestern Mutual,378,28799,2.4,818.0,250441,0.4,John E. Schlifske,"Insurance: Life, Health (Mutual)",Financials,377,USA
+L’Oreal,379,28572,2.0,3434.5,37577,-6.1,Jean-Paul Agon,Household and Personal Products,Household Products,378,France
+Dalian Wanda Group,380,28483,4.0,110.3,152701,-95.5,Wang Jianlin,Real estate,Financials,385,China
+Medipal Holdings,381,28277,12.1,267.7,13696,4.5,Shuichi Watanabe,Wholesalers: Health Care,Wholesalers,424,Japan
+China Huadian,382,28204,-10.3,360.6,112115,-70.3,Zhao Jianguo,Utilities,Energy,331,China
+AIA Group,383,28196,21.1,4164.0,185074,54.7,Ng Keng Hooi,"Insurance: Life, Health (stock)",Financials,456,China
+Hindustan Petroleum,384,28166,-2.3,1228.1,12370,63.4,Mukesh Kumar Surana,Petroleum Refining,Energy,367,India
+Migros Group,385,28155,-1.2,693.3,62536,-16.7,Herbert Bolliger,Food and Drug Stores,Food & Drug Stores,372,Switzerland
+Air France-KLM Group,386,27920,-3.4,875.8,24185,569.1,Jean-Marc Janaillac,Airlines,Transportation,363,France
+Compass Group,387,27837,2.5,1408.5,13693,5.0,Richard J. Cousins,Food Services,"Hotels, Restaurants & Leisure",387,Britain
+Schlumberger,388,27810,-21.6,-1687.0,77956,-181.4,Paal Kibsgaard,Oil & Gas Equipment Services,Energy,287,USA
+Kansai Electric Power,389,27792,2.8,1299.3,61513,10.8,Shigeki Iwane,Utilities,Energy,391,Japan
+Quanta Computer,390,27715,-12.7,469.3,18229,-16.4,Barry Lam,"Computers, Office Equipment",Technology,326,Taiwan
+Westpac Banking,391,27704,-10.8,5477.0,642083,-12.7,Brian C. Hartzer,Banks: Commercial and Savings,Financials,336,Australia
+Coop Group,392,27669,2.8,482.1,18369,11.5,Joos Sutter,Food and Drug Stores,Food & Drug Stores,396,Switzerland
+Facebook,393,27638,54.2,10217.0,64961,177.0,Mark Zuckerberg,Internet Services and Retailing,Technology,0,USA
+Travelers Cos.,394,27625,3.1,3014.0,100245,-12.4,Alan D. Schnitzer,Insurance: Property and Casualty (Stock),Financials,397,USA
+Capital One Financial,395,27519,9.6,3751.0,357033,-7.4,Richard D. Fairbank,Banks: Commercial and Savings,Financials,430,USA
+Twenty-First Century Fox,396,27326,-5.7,2755.0,48365,-66.8,James R. Murdoch,Entertainment,Media,360,USA
+China Guodian,397,27315,-10.5,268.7,114611,-67.2,Qiao Baoping,Energy,Energy,345,China
+LafargeHolcim,398,27308,11.4,1817.9,68521,,Eric Olsen,"Building Materials, Glass",Materials,438,Switzerland
+Schneider Electric,399,27307,-7.6,1935.2,44137,24.0,Jean-Pascal Tricoire,"Electronics, Electrical Equip.",Technology,354,France
+China Electronics Technology Group,400,27292,3.3,1611.6,35898,-1.5,Xiong Qun Li,Aerospace and Defense,Aerospace & Defense,408,China
+USAA,401,27131,11.4,1779.1,147290,-21.7,Stuart Parker,Insurance: Property and Casualty (Stock),Financials,444,USA
+World Fuel Services,402,27016,-11.1,126.5,5413,-27.5,Michael J. Kasbar,Energy,Energy,346,USA
+Phoenix Pharmahandel,403,26976,5.2,135.4,9292,-39.5,Oliver Windholz,Wholesalers: Health Care,Wholesalers,416,Germany
+Veolia Environnement,404,26972,-2.6,423.6,40022,-15.2,Antoine Frerot,Utilities,Energy,382,France
+National Australia Bank,405,26958,-21.1,259.0,594967,-94.8,Andrew G. Thorburn,Banks: Commercial and Savings,Financials,304,Australia
+Philip Morris International,406,26685,-0.4,6967.0,36851,1.4,Andre Calantzopoulos,Tobacco,"Food, Beverages & Tobacco",398,USA
+Deere,407,26644,-7.7,1523.9,57981,-21.4,Samuel R. Allen,Construction and Farm Machinery,Industrials,364,USA
+East Japan Railway,408,26587,11.3,2565.0,71009,25.5,Tetsuro Tomita,Railroads,Transportation,447,Japan
+Achmea,409,26494,2.8,-423.5,98096,-199.7,Willem A.J. van Duin,"Insurance: Life, Health (Mutual)",Financials,413,Netherlands
+Kraft Heinz,410,26487,44.4,3632.0,120480,472.9,Bernardo Hees,Food Consumer Products,"Food, Beverages & Tobacco",0,USA
+Cathay Life Insurance,411,26292,14.9,934.0,172442,-22.5,Ming-Ho Hsiung,"Insurance: Life, Health (stock)",Financials,468,Taiwan
+Tech Data,412,26235,-0.5,195.1,7932,-26.6,Robert M. Dutkowsky,Wholesalers: Electronics and Office Equipment,Wholesalers,409,USA
+Samsung Life Insurance,413,26222,7.0,1770.3,219157,65.3,Chang-Soo Kim,"Insurance: Life, Health (stock)",Financials,439,South Korea
+Avnet,414,26219,-6.1,506.5,11240,-11.4,William J. Amelio,Wholesalers: Electronics and Office Equipment,Wholesalers,380,USA
+Nokia,415,26113,73.4,-847.1,47354,-131.0,Rajeev Suri,Network and Other Communications Equipment,Technology,0,Finland
+Enbridge,416,26073,-1.4,1560.9,64011,695.0,Al Monaco,Pipelines,Energy,407,Canada
+Gas Natural Fenosa,417,26070,-11.5,1489.6,49688,-10.6,Rafael Villaseca Marco,Utilities,Energy,365,Spain
+Australia & New Zealand Banking Group,418,26032,-10.1,4199.9,699976,-28.4,Shayne Elliott,Banks: Commercial and Savings,Financials,362,Australia
+LM Ericsson,419,26004,-11.2,200.5,31199,-87.5,Borje Ekholm,Network and Other Communications Equipment,Technology,357,Sweden
+Sumitomo Electric Industries,420,25975,6.3,992.7,26062,31.0,Masayoshi Matsumoto,Motor Vehicles and Parts,Motor Vehicles & Parts,440,Japan
+Mondelez International,421,25923,-12.5,1659.0,61538,-77.2,Irene B. Rosenfeld,Food Consumer Products,"Food, Beverages & Tobacco",352,USA
+Old Mutual,422,25913,23.8,769.3,211943,-18.0,Bruce Hemphill,"Insurance: Life, Health (stock)",Financials,500,Britain
+Idemitsu Kosan,423,25888,-1.0,813.7,23711,,Takashi Tsukioka,Petroleum Refining,Energy,412,Japan
+Bank of Nova Scotia,424,25817,2.8,5362.2,668805,-4.9,Brian J. Porter,Banks: Commercial and Savings,Financials,428,Canada
+Macy’s,425,25778,-4.8,619.0,19851,-42.3,Jeffrey Gennette,General Merchandisers,Retailing,389,USA
+Mapfre Group,426,25775,3.9,857.5,71590,9.1,Antonio Huertas Mejias,Insurance: Property and Casualty (Stock),Financials,434,Spain
+La Poste,427,25760,0.8,938.9,257526,33.3,Philippe Wahl,"Mail, Package, and Freight Delivery",Transportation,418,France
+Inditex,428,25733,11.6,3485.0,21203,9.9,Pablo Isla Alvarez de Tejera,Specialty Retailers,Retailing,463,Spain
+AbbVie,429,25638,12.2,5953.0,66099,15.7,Richard A. Gonzalez,Pharmaceuticals,Health Care,469,USA
+Datong Coal Mine Group,430,25630,-19.8,-214.8,40012,,Zhang Youxi,"Mining, Crude-Oil Production",Energy,322,China
+Lotte Shopping,431,25444,-1.2,144.9,34710,,Hee-Tae Kang,General Merchandisers,Retailing,414,South Korea
+Standard Life,432,25279,46.9,496.7,235324,-77.2,Keith Skeoch,Diversified Financials,Financials,0,Britain
+Shanxi Coking Coal Group,433,25123,-19.1,-10.0,39206,-113.1,Wu Huatai,"Mining, Crude-Oil Production",Energy,337,China
+Adecco Group,434,25112,2.9,799.5,10651,8909.5,Alain Dehaze,Temporary Help,Business Services,442,Switzerland
+International Airlines Group,435,24956,-1.6,2135.4,28868,28.8,Willie Walsh,Airlines,Transportation,421,Britain
+McDonald’s,436,24622,-3.1,4686.5,31024,3.5,Stephen J. Easterbrook,Food Services,"Hotels, Restaurants & Leisure",420,USA
+NEC,437,24596,4.5,252.0,24091,-60.1,Takashi Niino,Information Technology Services,Technology,452,Japan
+DuPont,438,24594,-12.0,2513.0,39964,28.7,Edward D. Breen,Chemicals,Chemicals,379,USA
+China National Aviation Fuel Group,439,24588,11.3,320.0,6093,-4.3,Zhou Qiang,Wholesalers: Diversified,Wholesalers,484,China
+Northrop Grumman,440,24508,4.2,2200.0,25614,10.6,Wesley G. Bush,Aerospace and Defense,Aerospace & Defense,450,USA
+Brookfield Asset Management,441,24411,22.6,1651.0,159826,-29.5,J. Bruce Flatt,Diversified Financials,Financials,0,Canada
+Mercantil Servicios Financieros,442,24403,50.3,2004.2,148659,-10.5,Gustavo J. Vollmer A.,Banks: Commercial and Savings,Financials,0,Venezuela
+SAP,443,24397,5.8,4031.9,46696,18.6,William R. McDermott,Computer Software,Technology,462,Germany
+ConocoPhillips,444,24360,-21.3,-3615.0,89772,,Ryan M. Lance,"Mining, Crude-Oil Production",Energy,339,USA
+Yangquan Coal Industry Group,445,24284,-14.2,11.1,30793,,Zhai Hong,"Mining, Crude-Oil Production",Energy,374,China
+Danone,446,24267,-2.4,1902.1,46350,33.8,Emmanuel Faber,Food Consumer Products,"Food, Beverages & Tobacco",433,France
+Samsung C&T,447,24217,105.2,92.5,36816,-96.2,Chi-Hun Choi,"Engineering, Construction",Engineering & Construction,0,South Korea
+Shanxi LuAn Mining Group,448,24087,-15.9,-106.9,29026,,Li Jinping,"Mining, Crude-Oil Production",Energy,370,China
+Raytheon,449,24069,3.5,2211.0,30052,6.6,Thomas A. Kennedy,Aerospace and Defense,Aerospace & Defense,457,USA
+Midea Group,450,24060,8.5,2210.4,24549,9.3,Fang Hongbo,"Electronics, Electrical Equip.",Technology,481,China
+Chubu Electric Power,451,24028,1.1,1058.2,48580,-25.2,Satoru Katsuno,Utilities,Energy,448,Japan
+BAE Systems,452,24011,-6.4,1232.3,28383,-12.1,Charles Woodburn,Aerospace and Defense,Aerospace & Defense,415,Britain
+Andeavor,453,24005,-14.7,734.0,20398,-52.3,Gregory J. Goff,Petroleum Refining,Energy,375,USA
+China Datang,454,23871,-9.7,243.9,101631,32.9,Chen Jinhang,Energy,Energy,406,China
+Flex,455,23863,-2.3,319.6,12593,-28.0,Michael M. McNamara,Semiconductors and Other Electronic Components,Technology,441,Singapore
+Arrow Electronics,456,23825,2.3,522.8,14206,5.0,Michael J. Long,Wholesalers: Electronics and Office Equipment,Wholesalers,455,USA
+Heraeus Holding,457,23793,65.9,,4982,,Jan Rinnert,Metals,Materials,0,Germany
+Compal Electronics,458,23773,-10.9,252.1,10769,-7.9,Jui-Tsung Chen,"Computers, Office Equipment",Technology,400,Taiwan
+Yango Financial Holding,459,23657,11.5,159.2,24231,-59.0,Lin Tengjiao,Diversified Financials,Financials,0,China
+Qualcomm,460,23554,-6.8,5705.0,52359,8.2,Steven M. Mollenkopf,Semiconductors and Other Electronic Components,Technology,422,USA
+Alfresa Holdings,461,23551,9.7,285.1,11273,-2.1,Taizo Kubo,Wholesalers: Health Care,Wholesalers,492,Japan
+Alibaba Group Holding,462,23517,47.9,6489.5,73538,-42.2,Daniel Zhang,Internet Services and Retailing,Technology,0,China
+Koc Holding,463,23456,-8.1,1144.2,25047,-12.7,Levent Cakiroglu,Energy,Energy,419,Turkey
+Progressive,464,23441,12.4,1031.0,33428,-18.7,Susan Patricia Griffith,Insurance: Property and Casualty (Stock),Financials,0,USA
+Duke Energy,465,23369,-1.0,2152.0,132761,-23.6,Lynn J. Good,Utilities,Energy,446,USA
+Michelin,466,23120,-1.7,1853.4,26705,43.0,Jean-Dominique Senard,Motor Vehicles and Parts,Motor Vehicles & Parts,451,France
+Country Garden Holdings,467,23044,27.9,1733.6,85124,17.4,Mo Bin,Real estate,Financials,0,China
+Heineken Holding,468,23044,-0.7,861.5,41469,-18.9,Jean-Francois van Boxmeer,Beverages,"Food, Beverages & Tobacco",459,Netherlands
+Enterprise Products Partners,469,23022,-14.8,2513.1,52194,-0.3,A. James Teague,Pipelines,Energy,392,USA
+AstraZeneca,470,23002,-6.9,3499.0,62526,23.9,Pascal Soriot,Pharmaceuticals,Health Care,435,Britain
+Amgen,471,22991,6.1,7722.0,77626,11.3,Robert A. Bradway,Pharmaceuticals,Health Care,487,USA
+Rabobank Group,472,22956,-4.4,828.3,698790,-15.1,Wiebe Draijer,Banks: Commercial and Savings,Financials,445,Netherlands
+Altice,473,22953,42.2,-1722.5,84805,,Michel Combes,Telecommunications,Telecommunications,0,Netherlands
+Onex,474,22943,3.8,-130.0,42913,,Gerald W. Schwartz,Semiconductors and Other Electronic Components,Technology,483,Canada
+US Foods Holding,475,22919,-0.9,209.8,8945,25.2,Pietro Satriano,Wholesalers: Food and Grocery,Wholesalers,461,USA
+Shanxi Jincheng Anthracite Coal Mining Group,476,22875,-17.0,3.0,32954,,He Tiancai,"Mining, Crude-Oil Production",Energy,384,China
+Randstad Holding,477,22873,7.3,650.2,9624,13.0,Jacques van den Broek,Temporary Help,Business Services,494,Netherlands
+Tencent Holdings,478,22871,39.7,6185.9,56968,35.0,Pony Ma,Internet Services and Retailing,Technology,0,China
+LG Display,479,22840,-9.0,781.4,20606,-8.6,Sang-Beom Han,"Electronics, Electrical Equip.",Technology,429,South Korea
+Emirates Group,480,22799,0.3,340.3,33096,-82.5,Sheikh Ahmed bin Saeed Al Maktoum,Airlines,Transportation,472,U.A.E
+U.S. Bancorp,481,22744,5.8,5888.0,445964,0.2,Andrew J. Cecere,Banks: Commercial and Savings,Financials,490,USA
+H & M Hennes & Mauritz,482,22618,4.6,2192.3,10681,-12.3,Karl-Johan Persson,Specialty Retailers,Retailing,488,Sweden
+Aflac,483,22559,8.1,2659.0,129819,5.0,Daniel P. Amos,"Insurance: Life, Health (stock)",Financials,0,USA
+Sodexo,484,22477,-2.0,707.2,15766,-12.7,Michel Landel,Food Services,"Hotels, Restaurants & Leisure",466,France
+Suning Commerce Group,485,22366,3.7,106.0,19738,-23.6,Ren Jun,Specialty Retailers,Retailing,0,China
+GS Caltex,486,22207,-11.4,1221.1,15969,42.1,Jin-Soo Huh,Petroleum Refining,Energy,431,South Korea
+Ultrapar Holdings,487,22167,-2.3,447.5,7426,-0.8,Thilo Mannhardt,Energy,Energy,474,Brazil
+Xiamen C&D,488,22145,6.6,280.2,21729,15.6,Huang Wenzhou,Trading,Wholesalers,0,China
+Sears Holdings,489,22138,-12.0,-2221.0,9362,,Edward S. Lampert,General Merchandisers,Retailing,425,USA
+China General Technology,490,22113,-20.1,413.6,20860,-20.8,Xu Xianping,"Engineering, Construction",Engineering & Construction,383,China
+National Grid,491,22036,-3.2,10150.6,82310,160.2,John Pettigrew,Utilities,Energy,471,Britain
+Dollar General,492,21987,7.9,1251.1,11672,7.4,Todd J. Vasos,Specialty Retailers,Retailing,0,USA
+Telecom Italia,493,21941,-17.4,1999.4,74295,,Flavio Cattaneo,Telecommunications,Telecommunications,404,Italy
+Xiamen ITG Holding Group,494,21930,34.3,35.6,12161,-25.1,Xu Xiaoxi,Trading,Wholesalers,0,China
+Xinjiang Guanghui Industry Investment,495,21919,31.1,251.8,31957,49.9,Shang Jiqiang,Trading,Wholesalers,0,China
+Teva Pharmaceutical Industries,496,21903,11.5,329.0,92890,-79.3,Yitzhak Peterburg,Pharmaceuticals,Health Care,0,Israel
+New China Life Insurance,497,21796,-13.3,743.9,100609,-45.6,Wan Feng,"Insurance: Life, Health (stock)",Financials,427,China
+Wm. Morrison Supermarkets,498,21741,-11.3,406.4,11630,20.4,David T. Potts,Food and Drug Stores,Food & Drug Stores,437,Britain
+TUI,499,21655,-5.5,1151.7,16247,195.5,Friedrich Joussen,Travel Services,Business Services,467,Germany
+AutoNation,500,21609,3.6,430.5,10060,-2.7,Michael J. Jackson,Specialty Retailers,Retailing,0,USA
